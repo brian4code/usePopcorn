@@ -13,4 +13,4 @@ Deployed to Netlify
 
 Visit the link to see the rendered website:
 
-[https://react-quiz-brian4code.netlify.app/](https://react-quiz-brian4code.netlify.app/)
+[https://usepopcorn-brian4code.netlify.app/](https://usepopcorn-brian4code.netlify.app/)
